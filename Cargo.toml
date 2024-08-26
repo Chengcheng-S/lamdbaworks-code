@@ -1,0 +1,8 @@
+[package]
+name = "lambdaworks_code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lambdaworks-math = { git = "https://github.com/lambdaclass/lambdaworks.git" }
+lambdaworks-plonk = {git = "https://github.com/lambdaclass/lambdaworks.git"}
